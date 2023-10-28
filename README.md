@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![prewiew](https://github.com/Petrichor38/gericht_restorantee/blob/main/public/gericht_restorant_prewiew.png)
 
 
 ## Available Scripts
